@@ -70,7 +70,7 @@
 </div>
 
 <br>
-<h2 align="center">📊 SYSTEM METRICS</h2>
+<h2 align="center">📊SYSTEM METRICS</h2>
 
 <div align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=rootxnex&theme=transparent&hide_border=true&background=0A1F44&ring=00B8D9&fire=00B8D9&currStreakLabel=00B8D9&sideNums=E0E0E0&currStreakNum=E0E0E0&sideLabels=E0E0E0&dates=E0E0E0&stroke=00B8D9" alt="Streak Stats" width="48%"/>
